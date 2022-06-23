@@ -61,7 +61,7 @@ log() takes a string and sends it to the output file battle-log.txt.
 main() is resobsible for user interface (including nested methods) and input/output and enemy generation. 
 
 ## How to Run the Program
-The input file Items.txt must be present in the format described above. <br/>
-Import the program, the main function will get called. <br/>
+The input file Items.txt must be present,in the location where Python opens files from, and in the format described above. <br/>
+Import the program using IDLE with the following line. The main function will get called. <br/>
 \>\>\> `import RPG` <br/>
 Then follow the interactive prompts. The output will be written to the battle-log.txt file.
