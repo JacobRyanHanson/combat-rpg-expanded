@@ -1,0 +1,6 @@
+W, sword, 10, 3
+W, axe, 15, 4
+W, spear, 5, 2
+W, hammer, 20, 5
+A, shield, 20, 5
+P, health potion, 50, 1

@@ -1,0 +1,232 @@
+----------------------------------------------------------------------
+Hero: Stan
+----------------------------------------------------------------------
+Choose a starting item:
+
+0 Sword, Damage: 10, Weight: 3
+1 Axe, Damage: 15, Weight: 4
+2 Spear, Damage: 5, Weight: 2
+3 Hammer, Damage: 20, Weight: 5
+4 Shield, Defense: 20, Weight: 5
+5 Health potion, Recovery: 50, Weight: 1
+
+Enter a number: 3
+----------------------------------------------------------------------
+Stan aquired a(n) hammer.
+----------------------------------------------------------------------
+Stan's stats:
+
+Health: 109/109
+Attack: 32
+Defense: 9
+Agility: 5
+Weight: 5/10
+----------------------------------------------------------------------
+Stan's inventory:
+
+Weapon - Hammer, Damage: 20, Weight: 5
+Armor - None
+Health potion(s) - None
+----------------------------------------------------------------------
+A(n) goblin with 80 health has appeared!
+----------------------------------------------------------------------
+The goblin attacked Stan for 14 points of damage.
+2 points of damage were blocked.
+Stan took 12 points of damage and their health is now 97.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the goblin for 60 points of damage.
+9 points of damage were blocked.
+The goblin took 51 points of damage and its health is now 29.
+----------------------------------------------------------------------
+The goblin attacked Stan for 7 points of damage.
+6 points of damage were blocked.
+Stan took 1 points of damage and their health is now 96.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the goblin for 64 points of damage.
+8 points of damage were blocked.
+The goblin took 56 points of damage and its health is now 0.
+----------------------------------------------------------------------
+The goblin dropped:
+
+0 Health potion - Quantity: 1, Weight: 1
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan aquired a(n) health potion.
+----------------------------------------------------------------------
+A(n) troll with 95 health and a(n) shield has appeared!
+----------------------------------------------------------------------
+The troll attacked Stan for 21 points of damage.
+2 points of damage were blocked.
+Stan took 19 points of damage and their health is now 77.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the troll for 60 points of damage.
+21 points of damage were blocked.
+The troll took 39 points of damage and its health is now 56.
+----------------------------------------------------------------------
+The troll attacked Stan for 18 points of damage.
+7 points of damage were blocked.
+Stan took 11 points of damage and their health is now 66.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the troll for 41 points of damage.
+25 points of damage were blocked.
+The troll took 16 points of damage and its health is now 40.
+----------------------------------------------------------------------
+The troll attacked Stan for 12 points of damage.
+3 points of damage were blocked.
+Stan took 9 points of damage and their health is now 57.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the troll for 22 points of damage.
+12 points of damage were blocked.
+The troll took 10 points of damage and its health is now 30.
+----------------------------------------------------------------------
+The troll attacked Stan for 20 points of damage.
+4 points of damage were blocked.
+Stan took 16 points of damage and their health is now 41.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the troll for 57 points of damage.
+26 points of damage were blocked.
+The troll took 31 points of damage and its health is now 0.
+----------------------------------------------------------------------
+The troll dropped:
+
+0 Armor - Shield, Defense: 20, Weight: 5
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan aquired a(n) shield.
+----------------------------------------------------------------------
+A(n) skeleton with 110 health and a(n) axe has appeared!
+----------------------------------------------------------------------
+The skeleton attacked Stan for 44 points of damage.
+18 points of damage were blocked.
+Stan took 26 points of damage and their health is now 15.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 1
+----------------------------------------------------------------------
+Stan healed 50 points.
+----------------------------------------------------------------------
+The skeleton attacked Stan for 19 points of damage.
+25 points of damage were blocked.
+Stan took 0 points of damage and their health is now 65.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the skeleton for 44 points of damage.
+9 points of damage were blocked.
+The skeleton took 35 points of damage and its health is now 75.
+----------------------------------------------------------------------
+The skeleton attacked Stan for 24 points of damage.
+23 points of damage were blocked.
+Stan took 1 points of damage and their health is now 64.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the skeleton for 64 points of damage.
+5 points of damage were blocked.
+The skeleton took 59 points of damage and its health is now 16.
+----------------------------------------------------------------------
+The skeleton attacked Stan for 15 points of damage.
+7 points of damage were blocked.
+Stan took 8 points of damage and their health is now 56.
+----------------------------------------------------------------------
+What would Stan like to do?
+
+0 Attack
+1 Use Health Potion
+2 Run Away
+3 Check Stats
+4 Check Inventory
+
+Enter a number: 0
+----------------------------------------------------------------------
+Stan attacked the skeleton for 54 points of damage.
+10 points of damage were blocked.
+The skeleton took 44 points of damage and its health is now 0.
+----------------------------------------------------------------------
+Victory!
+----------------------------------------------------------------------
